@@ -174,16 +174,12 @@ def upload():
 
 @app.route('/download/<path:filename>')
 def download(filename):
-    # Si on demande .xls, servir le .xlsx
-    real_filename = filename.replace('.xls', '.xlsx')
-    filepath = app.config['RESULTS_FOLDER'] / real_filename
-    
+    filepath = app.config['RESULTS_FOLDER'] / filename
+    print(f"Looking for: {filepath}")  # Debug
+    print(f"Exists: {filepath.exists()}")  # Debug
     if filepath.exists():
-        # Servir avec le nom original .xlsx
-        return send_file(str(filepath), 
-                        as_attachment=True,
-                        download_name=filename.replace('.xls', '.xlsx'))
-    return "Non trouvé", 404
+        return send_file(str(filepath), as_attachment=True)
+    return f"File not found: {filepath}", 404
 
 @app.route('/history')
 def history():
