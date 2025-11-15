@@ -175,11 +175,13 @@ def upload():
 @app.route('/download/<path:filename>')
 def download(filename):
     filepath = app.config['RESULTS_FOLDER'] / filename
-    print(f"Looking for: {filepath}")  # Debug
-    print(f"Exists: {filepath.exists()}")  # Debug
     if filepath.exists():
+        if filename.endswith('.xlsx'):
+            return send_file(str(filepath), 
+                           as_attachment=True,
+                           mimetype='text/plain')  # Tromper Cloudflare
         return send_file(str(filepath), as_attachment=True)
-    return f"File not found: {filepath}", 404
+    return "Non trouvé", 404
 
 @app.route('/history')
 def history():
