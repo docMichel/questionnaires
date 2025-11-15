@@ -1,0 +1,54 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+.env
+
+# Données du projet
+uploads/
+results/
+history.json
+*.pdf
+*.xlsx
+*.json
+!template.json
+!requirements.txt
+
+# Logs
+*.log
+*.pid
+questionnaire.log
+launchd.log
+launchd.err
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups
+*.bak
+*.backup
+*~
+
+# Tests
+test_*.pdf
+test_*.json
+bof.json
+temp*.json
