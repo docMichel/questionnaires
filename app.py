@@ -176,10 +176,13 @@ def upload():
 def download(filename):
     filepath = app.config['RESULTS_FOLDER'] / filename
     if filepath.exists():
-        if filename.endswith('.xlsx'):
-            return send_file(str(filepath), 
-                           as_attachment=True,
-                           mimetype='text/plain')  # Tromper Cloudflare
+        if filename.endswith(('.xlsx', '.xls')):
+            return send_file(
+                str(filepath), 
+                as_attachment=True,
+                mimetype='application/octet-stream',  # Binaire générique
+                download_name=filename  # Garde le bon nom
+            )
         return send_file(str(filepath), as_attachment=True)
     return "Non trouvé", 404
 
