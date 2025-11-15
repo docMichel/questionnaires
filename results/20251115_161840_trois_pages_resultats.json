@@ -1,0 +1,562 @@
+{
+  "fichier_template": "template.json",
+  "fichier_reponses": "/Users/mj/Sites/questionnaires/uploads/20251115_161840_trois_pages.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "decalage_x": -180,
+      "score_echelle": [
+        4
+      ],
+      "questions": {
+        "question_1": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 903,
+              "y": 1181,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1528,
+              "y": 1181,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 2618,
+              "y": 1181,
+              "w": 50,
+              "h": 52
+            }
+          ]
+        },
+        "question_2": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 828,
+              "y": 2428,
+              "w": 40,
+              "h": 41
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 1434,
+              "y": 2428,
+              "w": 42,
+              "h": 43
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 2360,
+              "y": 2429,
+              "w": 40,
+              "h": 41
+            }
+          ]
+        },
+        "question_3": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 520,
+              "y": 2737,
+              "w": 42,
+              "h": 43
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1575,
+              "y": 2737,
+              "w": 40,
+              "h": 42
+            }
+          ]
+        },
+        "question_4": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 1794,
+              "y": 2945,
+              "w": 41,
+              "h": 43
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 2405,
+              "y": 2945,
+              "w": 40,
+              "h": 42
+            }
+          ]
+        },
+        "question_5": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 194,
+              "y": 3357,
+              "w": 43,
+              "h": 44
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 741,
+              "y": 3357,
+              "w": 40,
+              "h": 41
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 1688,
+              "y": 3358,
+              "w": 40,
+              "h": 41
+            }
+          ]
+        },
+        "question_6": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 426,
+              "y": 3917,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 860,
+              "y": 3917,
+              "w": 50,
+              "h": 51
+            }
+          ]
+        },
+        "question_7": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 424,
+              "y": 4258,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 858,
+              "y": 4258,
+              "w": 50,
+              "h": 51
+            }
+          ]
+        },
+        "question_8": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 260,
+              "y": 4598,
+              "w": 50,
+              "h": 51
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 976,
+              "y": 4598,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 1848,
+              "y": 4598,
+              "w": 49,
+              "h": 52
+            }
+          ]
+        }
+      }
+    },
+    {
+      "page": 2,
+      "decalage_x": 387,
+      "score_echelle": [
+        5
+      ],
+      "questions": {
+        "question_1": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 1470,
+              "y": 1180,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 2022,
+              "y": 1179,
+              "w": 50,
+              "h": 51
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 3114,
+              "y": 1181,
+              "w": 50,
+              "h": 52
+            }
+          ]
+        },
+        "question_2": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 1241,
+              "y": 2459,
+              "w": 40,
+              "h": 41
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 2001,
+              "y": 2461,
+              "w": 42,
+              "h": 43
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 2769,
+              "y": 2463,
+              "w": 41,
+              "h": 41
+            }
+          ]
+        },
+        "question_3": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 1058,
+              "y": 2767,
+              "w": 40,
+              "h": 41
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 2083,
+              "y": 2767,
+              "w": 41,
+              "h": 43
+            }
+          ]
+        },
+        "question_4": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 2361,
+              "y": 2980,
+              "w": 41,
+              "h": 43
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 2815,
+              "y": 2980,
+              "w": 42,
+              "h": 41
+            }
+          ]
+        },
+        "question_5": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 761,
+              "y": 3388,
+              "w": 43,
+              "h": 44
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1152,
+              "y": 3387,
+              "w": 41,
+              "h": 41
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 2095,
+              "y": 3390,
+              "w": 40,
+              "h": 41
+            }
+          ]
+        },
+        "question_6": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 830,
+              "y": 4606,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1366,
+              "y": 4605,
+              "w": 50,
+              "h": 51
+            }
+          ]
+        }
+      }
+    },
+    {
+      "page": 3,
+      "decalage_x": -167,
+      "score_echelle": [
+        3,
+        4
+      ],
+      "questions": {
+        "question_1": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 916,
+              "y": 1181,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1540,
+              "y": 1185,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 2628,
+              "y": 1177,
+              "w": 50,
+              "h": 53
+            }
+          ]
+        },
+        "question_2": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 846,
+              "y": 2437,
+              "w": 41,
+              "h": 41
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 1447,
+              "y": 2432,
+              "w": 42,
+              "h": 43
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 2379,
+              "y": 2427,
+              "w": 39,
+              "h": 41
+            }
+          ]
+        },
+        "question_3": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "vide",
+              "x": 664,
+              "y": 2746,
+              "w": 40,
+              "h": 41
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 1529,
+              "y": 2746,
+              "w": 41,
+              "h": 43
+            }
+          ]
+        },
+        "question_4": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 1807,
+              "y": 2943,
+              "w": 41,
+              "h": 43
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 2428,
+              "y": 2943,
+              "w": 39,
+              "h": 41
+            }
+          ]
+        },
+        "question_5": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 207,
+              "y": 3363,
+              "w": 43,
+              "h": 44
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 764,
+              "y": 3366,
+              "w": 41,
+              "h": 41
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 1715,
+              "y": 3361,
+              "w": 40,
+              "h": 42
+            }
+          ]
+        },
+        "question_6": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 276,
+              "y": 3927,
+              "w": 50,
+              "h": 52
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1010,
+              "y": 3927,
+              "w": 50,
+              "h": 51
+            }
+          ]
+        },
+        "question_7": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 275,
+              "y": 4267,
+              "w": 49,
+              "h": 51
+            },
+            {
+              "index": 1,
+              "reponse": "vide",
+              "x": 1010,
+              "y": 4267,
+              "w": 50,
+              "h": 51
+            }
+          ]
+        },
+        "question_8": {
+          "reponses": [
+            {
+              "index": 0,
+              "reponse": "cochée",
+              "x": 273,
+              "y": 4601,
+              "w": 50,
+              "h": 51
+            },
+            {
+              "index": 1,
+              "reponse": "cochée",
+              "x": 870,
+              "y": 4601,
+              "w": 49,
+              "h": 51
+            },
+            {
+              "index": 2,
+              "reponse": "vide",
+              "x": 1883,
+              "y": 4601,
+              "w": 49,
+              "h": 52
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

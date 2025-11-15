@@ -1,0 +1,2575 @@
+{
+    "fichier_template": "template.json",
+    "fichier_reponses": "/Users/mj/Downloads/wetransfer_evaluations-larges-pdf_2025-11-05_2200/Evaluations larges.pdf",
+    "pages": [
+        {
+            "page": 1,
+            "globale": 4.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 2,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 3,
+            "globale": 3.5,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 4,
+            "globale": 0.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 5,
+            "globale": 3.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 6,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 7,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 8,
+            "globale": null,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 9,
+            "globale": 4.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 10,
+            "globale": null,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 11,
+            "globale": 4.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 12,
+            "globale": null,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 13,
+            "globale": 4.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 14,
+            "globale": null,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 15,
+            "globale": null,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 16,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 17,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 18,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 19,
+            "globale": 3.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 20,
+            "globale": null,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "page": 21,
+            "globale": 5.0,
+            "questions": {
+                "question_1": {
+                    "titre": "sexe",
+                    "reponses": [
+                        {
+                            "titre": "Fille",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Garcon",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NonBinaire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_2": {
+                    "titre": "La durée d e l a séance t'a semblé",
+                    "reponses": [
+                        {
+                            "titre": "Pas assez longue",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Suffisante",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "Trop longue",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_3": {
+                    "titre": "contenu",
+                    "reponses": [
+                        {
+                            "titre": "NON adapté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "Adapté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_4": {
+                    "titre": "claire",
+                    "reponses": [
+                        {
+                            "titre": "oui claire",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON pas claire",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_5": {
+                    "titre": "Penses-tu que les informations apportées vont t'aider dans ta vie ?",
+                    "reponses": [
+                        {
+                            "titre": "OUI aide",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON aide",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP aide",
+                            "cochee": 0
+                        }
+                    ]
+                },
+                "question_6": {
+                    "titre": "déjà parlé puberté",
+                    "reponses": [
+                        {
+                            "titre": "OUI puberté",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON puberté",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_7": {
+                    "titre": "déjà parlé règles",
+                    "reponses": [
+                        {
+                            "titre": "OUI règles",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NON règles",
+                            "cochee": 1
+                        }
+                    ]
+                },
+                "question_8": {
+                    "titre": "comprendre sexe opposé",
+                    "reponses": [
+                        {
+                            "titre": "OUI opposé",
+                            "cochee": 1
+                        },
+                        {
+                            "titre": "NON opposé",
+                            "cochee": 0
+                        },
+                        {
+                            "titre": "NSP opposé",
+                            "cochee": 1
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
