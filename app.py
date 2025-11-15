@@ -166,24 +166,24 @@ def upload():
         return jsonify({
             'success': True,
             'json': Path(json_fusion).name,
-            'excel': Path(excel_result).name
-        })
+            'excel': Path(excel_result).name.replace('.xlsx', '.bin')  # URL avec .bin        })
         
     except subprocess.CalledProcessError as e:
         return jsonify({'error': str(e)}), 500
 
 @app.route('/download/<path:filename>')
 def download(filename):
-    filepath = app.config['RESULTS_FOLDER'] / filename
+    # Accepter .bin mais servir le vrai fichier
+    real_filename = filename.replace('.bin', '.xlsx').replace('.dat', '.xls')
+    filepath = app.config['RESULTS_FOLDER'] / real_filename
+    
     if filepath.exists():
-        if filename.endswith(('.xlsx', '.xls')):
-            return send_file(
-                str(filepath), 
-                as_attachment=True,
-                mimetype='application/octet-stream',  # Binaire générique
-                download_name=filename  # Garde le bon nom
-            )
-        return send_file(str(filepath), as_attachment=True)
+        # Servir avec le BON nom pour l'utilisateur
+        return send_file(
+            str(filepath), 
+            as_attachment=True,
+            download_name=real_filename  # Le fichier sera bien .xlsx
+        )
     return "Non trouvé", 404
 
 @app.route('/history')
