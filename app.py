@@ -167,7 +167,8 @@ def upload():
             'success': True,
             'json': Path(json_fusion).name,
             'excel': Path(excel_result).name.replace('.xlsx', '.bin')  # URL avec .bin        })
-        
+        })
+    
     except subprocess.CalledProcessError as e:
         return jsonify({'error': str(e)}), 500
 
