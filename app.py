@@ -172,12 +172,21 @@ def upload():
     except subprocess.CalledProcessError as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/download/<path:filename>')
+@app.route('XXX/download/<path:filename>')
 def download(filename):
     filepath = app.config['RESULTS_FOLDER'] / filename
     if filepath.exists():
         return send_file(filepath, as_attachment=True)
     return "Non trouvé", 404
+
+@app.route('/download/<path:filename>')
+def download(filename):
+    filepath = app.config['RESULTS_FOLDER'] / filename
+    print(f"Looking for: {filepath}")  # Debug
+    print(f"Exists: {filepath.exists()}")  # Debug
+    if filepath.exists():
+        return send_file(str(filepath), as_attachment=True)
+    return f"File not found: {filepath}", 404
 
 @app.route('/history')
 def history():
